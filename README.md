@@ -72,6 +72,7 @@ if abs(vne_coef) > 0:
 - If `vne_coef>0`, VNE (as well as rank, disentanglement, and isotropy) of a representation can be increased.
 - If `vne_coef<0`, VNE (as well as rank, disentanglement, and isotropy) of a representation can be decreased.
 
+For more details, please refer to [VNE regularization using hook](./examples/hook).
 
 ## Utilizing VNE as a metric
 Our paper proves that VNE is theoretically and empirically connected with rank, disentanglement, and isotropy of a representation.
