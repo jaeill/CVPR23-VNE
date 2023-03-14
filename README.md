@@ -74,7 +74,7 @@ if abs(vne_coef) > 0:
 
 For more details, please refer to [VNE regularization using hook](./examples/hook).
 
-`For successful training, we recommend using a sufficiently large batch size (at least 32) and a small vne_coef (no more than 0.5).`
+`For successful training, we recommend using a sufficiently large batch size (at least 32) and a small vne_coef (|vne_coef| <= 0.5).`
 
 ## Utilizing VNE as a metric
 Our paper proves that VNE is theoretically and empirically connected with rank, disentanglement, and isotropy of a representation.
