@@ -47,6 +47,7 @@ def get_vne(H):
     rho = torch.matmul(Z.T, Z) / Z.shape[0]
     eig_val = torch.linalg.eigh(rho)[0][-Z.shape[0]:]
     return - (eig_val * torch.log(eig_val)).nansum()
+
 # the following is equivalent and faster when N < d
 def get_vne(H):
     Z = torch.nn.functional.normalize(H, dim=1)
