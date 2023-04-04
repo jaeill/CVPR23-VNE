@@ -73,7 +73,7 @@ if abs(vne_coef) > 0:
 - If `vne_coef>0`, VNE (as well as rank, disentanglement, and isotropy) of a representation can be increased.
 - If `vne_coef<0`, VNE (as well as rank, disentanglement, and isotropy) of a representation can be decreased.
 
-For more details, please refer to [A Case Example for Improving Representation Learning with VNE Regularization](./examples/hook).
+For more details, please refer to [An Example Code for Improving Representation Learning with VNE Regularization](./examples/hook).
 
 `For successful training, we recommend using a large batch size (at least 32) and a small vne_coef (|vne_coef| <= 0.5).`
 
@@ -84,7 +84,7 @@ Therefore, VNE can be a useful proxy of the rank, disentanglement, and isotropy 
 ## Examples
 As examples of training a representation learning task with VNE, we provide the following [examples](./examples):
 + [I-VNE+ with ImageNet-100](./examples/i-vne+)
-+ [A Case Example for Improving Representation Learning with VNE Regularization](./examples/hook)
++ [An Example Code for Improving Representation Learning with VNE Regularization](./examples/hook)
 
 
 
