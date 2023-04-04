@@ -1,4 +1,4 @@
-# VNE regularization using hook
+# Improving Representation Learning with VNE Regularization: A Case Study
 
 The regularization of von Neumann entropy (VNE) in representation learning tasks can be easily incorporated into existing models with minimal modification to the training code. By employing this technique, we can effectively balance the objectives of representation learning and regularization, resulting in high-quality and stable representations.
 This can be achieved using a **hook** in the PyTorch framework, which allows for the retrieval of intermediate layer representations during training process.
