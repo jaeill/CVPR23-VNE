@@ -5,7 +5,7 @@ Our method involves two key components aimed at improving the quality of learned
 
 $$\mathcal{L}_{\text{I-VNE}^+}=-\alpha_1 \cdot \mathbb{E}_i[\text{sim}({h}^1_i,{h}^2_i)]-\alpha_2 \cdot S(\mathcal{C}_{\text{auto}})$$
 
-Please refer to our paper for details.
+Please refer to our paper for more details.
 
 ## Analysis
 
