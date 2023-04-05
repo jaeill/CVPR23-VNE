@@ -3,7 +3,7 @@
 This repository provides a Official PyTorch implementation of our CVPR 2023 paper ***VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution.***
 
 + [CVPR 2023 paper (will be made available)](https://...)
-+ [arXiv version (will be made available)](https://...)
++ [arXiv version (will be made available)](https://arxiv.org/abs/2304.01434)
 
 
 
