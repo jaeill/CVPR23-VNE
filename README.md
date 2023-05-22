@@ -91,7 +91,13 @@ As examples of training a representation learning task with VNE, we provide the 
 ## Citation
 Please consider citing our work if you find our repository/paper useful.
 ```
-@inproceedings{currently not available
+@InProceedings{Kim_2023_CVPR,
+    author    = {Kim, Jaeill and Kang, Suhyun and Hwang, Duhun and Shin, Jungwook and Rhee, Wonjong},
+    title     = {VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {3799-3810}
 }
 ```
 
