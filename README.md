@@ -4,6 +4,7 @@ This repository provides a Official PyTorch implementation of our CVPR 2023 pape
 
 + [CVPR 2023 open access](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_VNE_An_Effective_Method_for_Improving_Deep_Representation_by_Manipulating_CVPR_2023_paper.html)
 + [arXiv version](https://arxiv.org/abs/2304.01434)
++ [YouTube](https://youtu.be/YW4DRxU0LrI)
 
 
 
